@@ -1,0 +1,9 @@
+{
+    "HOME" : {
+      "H1" : "Welcome to Angular internationalization!",
+      "H2" : "Here are some links to help you start: ",
+      "A1_LABEL" : "Tour of Heroes",
+      "A2_LABEL" : "CLI Documentation",
+      "A3_LABEL" : "Angular blog"
+    }
+}

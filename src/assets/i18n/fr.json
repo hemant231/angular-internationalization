@@ -1,0 +1,9 @@
+{
+  "HOME" : {
+    "H1" : "Bienvenue à l'internationalisation angulaire!",
+    "H2" : "Voici quelques liens pour vous aider à démarrer:",
+    "A1_LABEL" : "Tour des Héros",
+    "A2_LABEL" : "Documentation CLI",
+    "A3_LABEL" : "Blog angulaire"
+  }
+}
